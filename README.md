@@ -4,6 +4,13 @@ A responsive React.js dashboard application replicating the given Figma design, 
 
 ---
 
+## Design & Prototype
+
+- **Figma Design (View-only):** [Open Design](https://www.figma.com/design/KZuVZbUv1as262QB1r1X5i/Test-UI?node-id=2535-46&t=ODe9646Udr80lxoz-0)
+- **Interactive Prototype:** [Open Prototype](https://www.figma.com/proto/KZuVZbUv1as262QB1r1X5i/Test-UI?node-id=2535-46&t=Ixyl5eM5RSHrEVtf-1&scaling=scale-down-width&content-scaling=fixed&page-id=2535%3A13&starting-point-node-id=2535%3A1069)
+
+---
+
 ## Live Demo
 
 [Live Deployment on Netlify](https://react-assesment-figma.netlify.app/)
