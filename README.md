@@ -6,7 +6,7 @@ A responsive React.js dashboard application replicating the given Figma design, 
 
 ## Live Demo
 
-[Live Deployment on Netlify](#)  <!-- Add your Netlify link here -->
+[Live Deployment on Netlify](https://react-assesment-figma.netlify.app/)
 
 ---
 
